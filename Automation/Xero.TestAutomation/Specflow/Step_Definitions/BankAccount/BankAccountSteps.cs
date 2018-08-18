@@ -12,6 +12,9 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace Xero.TestAutomation.Specflow.Step_Definitions.BankAccount
 {
+    /// <summary>
+    /// Step definitions for Bank Accounts screen
+    /// </summary>
     [Binding]
     public class BankAccountSteps : BankAccountsPage
     {

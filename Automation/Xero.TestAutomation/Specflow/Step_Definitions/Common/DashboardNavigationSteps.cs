@@ -11,6 +11,9 @@ using OpenQA.Selenium.Support.UI;
 
 namespace Xero.TestAutomation.Specflow.Step_Definitions.Common
 {
+    /// <summary>
+    /// Common step definitions for navigating on Dashboard menu section
+    /// </summary>
     [Binding]
     public class DashboardNavigationSteps : DashboardNavigationPage
     {

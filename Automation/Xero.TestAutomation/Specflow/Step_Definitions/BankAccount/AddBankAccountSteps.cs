@@ -8,6 +8,9 @@ using Xero.TestAutomation.Common;
 
 namespace Xero.TestAutomation.Specflow.Step_Definitions.BankAccount
 {
+    /// <summary>
+    /// Step definitions for Add Bank Account screen
+    /// </summary>
     [Binding]
     public class AddBankAccountSteps : AddBankAccountsPage
     {

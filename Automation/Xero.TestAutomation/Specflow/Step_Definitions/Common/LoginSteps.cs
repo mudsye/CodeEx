@@ -9,6 +9,9 @@ using Xero.TestAutomation.DataStructures;
 
 namespace Xero.TestAutomation.Specflow.Step_Definitions.Common
 {
+    /// <summary>
+    /// Common step definitions for Login screen
+    /// </summary>
     [Binding]
     public class LoginSteps : LoginPage
     {
